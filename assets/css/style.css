@@ -42,15 +42,24 @@ nav button {
 
 nav button:hover {
   transform: scale(0.98);
-  /* Scaling button to 0.98 to its original size */
   box-shadow: 3px 2px 22px 1px #4db53886;
+}
+
+main {
+  margin: 0 0 104px 121px;
 }
 
 img {
   height: 500px;
 }
 
+section {
+  display: inline-block;
+  margin-left: 85px;
+}
+
 h1 {
+  width: 582px;
   font-weight: 700;
   font-size: 62px;
   line-height: 82px;
