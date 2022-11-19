@@ -54,12 +54,12 @@ img {
 }
 
 section {
+  width: 493px;
   display: inline-block;
   margin-left: 85px;
 }
 
 h1 {
-  width: 582px;
   font-weight: 700;
   font-size: 62px;
   line-height: 82px;
@@ -69,7 +69,6 @@ h1 {
 }
 
 p {
-  width: 493px;
   color: #4b505a;
   font-size: 18px;
   line-height: 33px;
